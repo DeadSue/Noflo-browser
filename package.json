@@ -25,6 +25,7 @@
     "noflo": "^1.4.3",
     "noflo-core": "^0.6.1",
     "noflo-dom": "^0.3.0",
+    "noflo-filesystem": "^2.2.0",
     "noflo-interaction": "^0.3.1",
     "noflo-nodejs": "^0.15.1",
     "noflo-runtime-postmessage": "^0.13.0",

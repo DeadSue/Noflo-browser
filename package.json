@@ -29,7 +29,7 @@
     "noflo-interaction": "^0.3.1",
     "noflo-nodejs": "^0.15.1",
     "noflo-runtime-postmessage": "^0.13.0",
-    "the-graph": "^0.11.1",
+    "the-graph": "^0.13.1",
     "uuid-by-string": "^3.0.6"
   },
   "devDependencies": {

@@ -36,7 +36,7 @@
     "@babel/core": "^7.17.2",
     "@babel/preset-env": "^7.16.11",
     "babel-loader": "^8.2.3",
-    "coffee-loader": "^2.0.0",
+    "coffee-loader": "^3.0.0",
     "coffeescript": "^2.6.1",
     "copy-webpack-plugin": "^8.1.1",
     "eslint": "^7.32.0",

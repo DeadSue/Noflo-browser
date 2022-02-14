@@ -42,7 +42,7 @@
     "eslint": "^7.32.0",
     "eslint-config-airbnb-base": "^14.2.1",
     "eslint-plugin-import": "^2.25.4",
-    "fbp-spec": "^0.6.8",
+    "fbp-spec": "^0.8.0",
     "noflo-component-loader": "^0.4.1",
     "noflo-runtime-headless": "^0.2.0",
     "path-browserify": "^1.0.1",
